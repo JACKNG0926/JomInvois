@@ -1,0 +1,2 @@
+# Use the same Django minor version as the project's development environment.
+Django>=5.2,<6.2
